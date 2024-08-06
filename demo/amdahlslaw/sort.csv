@@ -1,0 +1,2 @@
+ET,FileInput,CPU_Kernel,GPU_Kernel,Host2GPU,GPU2Host
+/bin/bash: ./run_CPU: No such file or directory
